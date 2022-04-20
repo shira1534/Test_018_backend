@@ -1,0 +1,14 @@
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\bin\Debug\net5.0\Dal.deps.json
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\bin\Debug\net5.0\Dal.runtimeconfig.json
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\bin\Debug\net5.0\Dal.runtimeconfig.dev.json
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\bin\Debug\net5.0\Dal.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\bin\Debug\net5.0\ref\Dal.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\bin\Debug\net5.0\Dal.pdb
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\Dal.AssemblyInfoInputs.cache
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\Dal.AssemblyInfo.cs
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\Dal.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\ref\Dal.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\Dal.pdb
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\Dal\obj\Debug\net5.0\Dal.genruntimeconfig.cache

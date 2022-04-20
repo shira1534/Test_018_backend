@@ -1,0 +1,17 @@
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.csprojAssemblyReference.cache
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\Dal.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\DTO.dll
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\Dal.pdb
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\bin\Debug\net5.0\DTO.pdb
+C:\Users\שירה\Desktop\W4G-מבחן\Clothes\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
