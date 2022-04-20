@@ -75,6 +75,7 @@ namespace BLL
         {
             try
             {
+                //123
                 return ProductConvertor.ToProductDto(_context.Products.FirstOrDefault(o => o.ProductId == id));
 
             }
